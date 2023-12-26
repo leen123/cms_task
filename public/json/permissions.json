@@ -1,0 +1,19 @@
+{
+    "articles": [
+        "add_articles",
+        "edit_articles",
+        "delete_articles"
+    ],
+    "editors": [
+        "add_editors",
+        "update_editors",
+        "update_editor_permissions",
+        "get_editor_permissions",
+        "delete_editors"
+    ],
+    "permissions": [
+        "add_permissions",
+        "edit_permissions",
+        "delete_permissions"
+    ]
+}
